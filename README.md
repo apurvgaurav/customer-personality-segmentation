@@ -40,7 +40,7 @@ Understanding customer personality and behavior is pivotal for businesses to enh
 ## How to Run
 
 - Open the `.html` notebook in your browser to review the full analysis.
-- Dataset: [Not included due to size/privacy. See assignment or Kaggle for source.]
+
 
 ---
 
